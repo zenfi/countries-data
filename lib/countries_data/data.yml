@@ -1,0 +1,1993 @@
+countries:
+- id: "AD"
+  emoji: "🇦🇩"
+  names:
+    es: "Andorra"
+    en: "Andorra"
+  phone_code: "376"
+  phone_min_length: 6
+  phone_max_length: 6
+- id: "AE"
+  emoji: "🇦🇪"
+  names:
+    es: "Emiratos Árabes Unidos"
+    en: "United Arab Emirates"
+  phone_code: "971"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "AF"
+  emoji: "🇦🇫"
+  names:
+    es: "Afganistán"
+    en: "Afghanistan"
+  phone_code: "93"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "AG"
+  emoji: "🇦🇬"
+  names:
+    es: "Antigua y Barbuda"
+    en: "Antigua and Barbuda"
+  phone_code: "1268"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "AI"
+  emoji: "🇦🇮"
+  names:
+    es: "Anguila"
+    en: "Anguilla"
+  phone_code: "1264"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "AL"
+  emoji: "🇦🇱"
+  names:
+    es: "Albania"
+    en: "Albania"
+  phone_code: "355"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "AM"
+  emoji: "🇦🇲"
+  names:
+    es: "Armenia"
+    en: "Armenia"
+  phone_code: "374"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "AO"
+  emoji: "🇦🇴"
+  names:
+    es: "Angola"
+    en: "Angola"
+  phone_code: "244"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "AQ"
+  emoji: "🇦🇶"
+  names:
+    es: "Antártida"
+    en: "Antarctica"
+  phone_code: 
+  phone_min_length: 
+  phone_max_length: 
+- id: "AR"
+  emoji: "🇦🇷"
+  names:
+    es: "Argentina"
+    en: "Argentina"
+  phone_code: "54"
+  phone_min_length: 6
+  phone_max_length: 9
+- id: "AS"
+  emoji: "🇦🇸"
+  names:
+    es: "Samoa Americana"
+    en: "American Samoa"
+  phone_code: "1684"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "AT"
+  emoji: "🇦🇹"
+  names:
+    es: "Austria"
+    en: "Austria"
+  phone_code: "43"
+  phone_min_length: 10
+  phone_max_length: 14
+- id: "AU"
+  emoji: "🇦🇺"
+  names:
+    es: "Australia"
+    en: "Australia"
+  phone_code: "61"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "AW"
+  emoji: "🇦🇼"
+  names:
+    es: "Aruba"
+    en: "Aruba"
+  phone_code: "297"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "AX"
+  emoji: "🇦🇽"
+  names:
+    es: "Islas de Åland"
+    en: "Åland Islands"
+  phone_code: "35818"
+  phone_min_length: 6
+  phone_max_length: 8
+- id: "AZ"
+  emoji: "🇦🇿"
+  names:
+    es: "Azerbaiyán"
+    en: "Azerbaijan"
+  phone_code: "994"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "BA"
+  emoji: "🇧🇦"
+  names:
+    es: "Bosnia y Herzegovina"
+    en: "Bosnia and Herzegovina"
+  phone_code: "387"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "BB"
+  emoji: "🇧🇧"
+  names:
+    es: "Barbados"
+    en: "Barbados"
+  phone_code: "1246"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "BD"
+  emoji: "🇧🇩"
+  names:
+    es: "Bangladesh"
+    en: "Bangladesh"
+  phone_code: "880"
+  phone_min_length: 8
+  phone_max_length: 10
+- id: "BE"
+  emoji: "🇧🇪"
+  names:
+    es: "Bélgica"
+    en: "Belgium"
+  phone_code: "32"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "BF"
+  emoji: "🇧🇫"
+  names:
+    es: "Burkina Faso"
+    en: "Burkina Faso"
+  phone_code: "226"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "BG"
+  emoji: "🇧🇬"
+  names:
+    es: "Bulgaria"
+    en: "Bulgaria"
+  phone_code: "359"
+  phone_min_length: 8
+  phone_max_length: 9
+- id: "BH"
+  emoji: "🇧🇭"
+  names:
+    es: "Bahrein"
+    en: "Bahrain"
+  phone_code: "973"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "BI"
+  emoji: "🇧🇮"
+  names:
+    es: "Burundi"
+    en: "Burundi"
+  phone_code: "257"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "BJ"
+  emoji: "🇧🇯"
+  names:
+    es: "Benín"
+    en: "Benin"
+  phone_code: "229"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "BL"
+  emoji: "🇧🇱"
+  names:
+    es: "San Bartolomé"
+    en: "Saint Barthélemy"
+  phone_code: "590"
+  phone_min_length: 
+  phone_max_length: 
+- id: "BM"
+  emoji: "🇧🇲"
+  names:
+    es: "Islas Bermudas"
+    en: "Bermuda"
+  phone_code: "1441"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "BN"
+  emoji: "🇧🇳"
+  names:
+    es: "Brunéi"
+    en: "Brunei"
+  phone_code: "673"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "BO"
+  emoji: "🇧🇴"
+  names:
+    es: "Bolivia"
+    en: "Bolivia"
+  phone_code: "591"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "BQ"
+  emoji: "🇧🇶"
+  names:
+    es: "Bonaire, San Eustaquio y Saba"
+    en: "Bonaire, Sint Eustatius and Saba"
+  phone_code: "599"
+  phone_min_length: 
+  phone_max_length: 
+- id: "BR"
+  emoji: "🇧🇷"
+  names:
+    es: "Brasil"
+    en: "Brazil"
+  phone_code: "55"
+  phone_min_length: 10
+  phone_max_length: 11
+- id: "BS"
+  emoji: "🇧🇸"
+  names:
+    es: "Bahamas"
+    en: "Bahamas"
+  phone_code: "1242"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "BT"
+  emoji: "🇧🇹"
+  names:
+    es: "Bhután"
+    en: "Bhutan"
+  phone_code: "975"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "BV"
+  emoji: "🇧🇻"
+  names:
+    es: "Isla Bouvet"
+    en: "Bouvet Island"
+  phone_code: 
+  phone_min_length: 
+  phone_max_length: 
+- id: "BW"
+  emoji: "🇧🇼"
+  names:
+    es: "Botsuana"
+    en: "Botswana"
+  phone_code: "267"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "BY"
+  emoji: "🇧🇾"
+  names:
+    es: "Bielorrusia"
+    en: "Belarus"
+  phone_code: "375"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "BZ"
+  emoji: "🇧🇿"
+  names:
+    es: "Belice"
+    en: "Belize"
+  phone_code: "501"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "CA"
+  emoji: "🇨🇦"
+  names:
+    es: "Canadá"
+    en: "Canada"
+  phone_code: "1"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "CC"
+  emoji: "🇨🇨"
+  names:
+    es: "Islas Cocos (Keeling)"
+    en: "Cocos"
+  phone_code: "61"
+  phone_min_length: 
+  phone_max_length: 
+- id: "CD"
+  emoji: "🇨🇩"
+  names:
+    es: "República Democrática del Congo"
+    en: "Congo"
+  phone_code: "243"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "CF"
+  emoji: "🇨🇫"
+  names:
+    es: "República Centroafricana"
+    en: "Central African Republic"
+  phone_code: "236"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "CG"
+  emoji: "🇨🇬"
+  names:
+    es: "República del Congo"
+    en: "Congo"
+  phone_code: "242"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "CH"
+  emoji: "🇨🇭"
+  names:
+    es: "Suiza"
+    en: "Switzerland"
+  phone_code: "41"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "CI"
+  emoji: "🇨🇮"
+  names:
+    es: "Costa de Marfil"
+    en: "Ivory Coast"
+  phone_code: "225"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "CK"
+  emoji: "🇨🇰"
+  names:
+    es: "Islas Cook"
+    en: "Cook Islands"
+  phone_code: "682"
+  phone_min_length: 5
+  phone_max_length: 5
+- id: "CL"
+  emoji: "🇨🇱"
+  names:
+    es: "Chile"
+    en: "Chile"
+  phone_code: "56"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "CM"
+  emoji: "🇨🇲"
+  names:
+    es: "Camerún"
+    en: "Cameroon"
+  phone_code: "237"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "CN"
+  emoji: "🇨🇳"
+  names:
+    es: "China"
+    en: "China"
+  phone_code: "86"
+  phone_min_length: 11
+  phone_max_length: 11
+- id: "CO"
+  emoji: "🇨🇴"
+  names:
+    es: "Colombia"
+    en: "Colombia"
+  phone_code: "57"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "CR"
+  emoji: "🇨🇷"
+  names:
+    es: "Costa Rica"
+    en: "Costa Rica"
+  phone_code: "506"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "CU"
+  emoji: "🇨🇺"
+  names:
+    es: "Cuba"
+    en: "Cuba"
+  phone_code: "53"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "CV"
+  emoji: "🇨🇻"
+  names:
+    es: "Cabo Verde"
+    en: "Cabo Verde"
+  phone_code: "238"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "CW"
+  emoji: "🇨🇼"
+  names:
+    es: "Curazao"
+    en: "Curaçao"
+  phone_code: "599"
+  phone_min_length: 
+  phone_max_length: 
+- id: "CX"
+  emoji: "🇨🇽"
+  names:
+    es: "Isla de Navidad"
+    en: "Christmas Island"
+  phone_code: "61"
+  phone_min_length: 
+  phone_max_length: 
+- id: "CY"
+  emoji: "🇨🇾"
+  names:
+    es: "Chipre"
+    en: "Cyprus"
+  phone_code: "357"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "CZ"
+  emoji: "🇨🇿"
+  names:
+    es: "República Checa"
+    en: "Czechia"
+  phone_code: "420"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "DE"
+  emoji: "🇩🇪"
+  names:
+    es: "Alemania"
+    en: "Germany"
+  phone_code: "49"
+  phone_min_length: 10
+  phone_max_length: 11
+- id: "DJ"
+  emoji: "🇩🇯"
+  names:
+    es: "Yibuti"
+    en: "Djibouti"
+  phone_code: "253"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "DK"
+  emoji: "🇩🇰"
+  names:
+    es: "Dinamarca"
+    en: "Denmark"
+  phone_code: "45"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "DM"
+  emoji: "🇩🇲"
+  names:
+    es: "Dominica"
+    en: "Dominica"
+  phone_code: "1767"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "DO"
+  emoji: "🇩🇴"
+  names:
+    es: "República Dominicana"
+    en: "Dominican Republic"
+  phone_code: "809"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "DZ"
+  emoji: "🇩🇿"
+  names:
+    es: "Argelia"
+    en: "Algeria"
+  phone_code: "213"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "EC"
+  emoji: "🇪🇨"
+  names:
+    es: "Ecuador"
+    en: "Ecuador"
+  phone_code: "593"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "EE"
+  emoji: "🇪🇪"
+  names:
+    es: "Estonia"
+    en: "Estonia"
+  phone_code: "372"
+  phone_min_length: 7
+  phone_max_length: 8
+- id: "EG"
+  emoji: "🇪🇬"
+  names:
+    es: "Egipto"
+    en: "Egypt"
+  phone_code: "20"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "EH"
+  emoji: "🇪🇭"
+  names:
+    es: "Sahara Occidental"
+    en: "Western Sahara"
+  phone_code: "212"
+  phone_min_length: 
+  phone_max_length: 
+- id: "ER"
+  emoji: "🇪🇷"
+  names:
+    es: "Eritrea"
+    en: "Eritrea"
+  phone_code: "291"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "ES"
+  emoji: "🇪🇸"
+  names:
+    es: "España"
+    en: "Spain"
+  phone_code: "34"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "ET"
+  emoji: "🇪🇹"
+  names:
+    es: "Etiopía"
+    en: "Ethiopia"
+  phone_code: "251"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "FI"
+  emoji: "🇫🇮"
+  names:
+    es: "Finlandia"
+    en: "Finland"
+  phone_code: "358"
+  phone_min_length: 9
+  phone_max_length: 10
+- id: "FJ"
+  emoji: "🇫🇯"
+  names:
+    es: "Fiyi"
+    en: "Fiji"
+  phone_code: "679"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "FK"
+  emoji: "🇫🇰"
+  names:
+    es: "Islas Malvinas"
+    en: "Falkland Islands"
+  phone_code: "500"
+  phone_min_length: 5
+  phone_max_length: 5
+- id: "FM"
+  emoji: "🇫🇲"
+  names:
+    es: "Micronesia"
+    en: "Micronesia"
+  phone_code: "691"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "FO"
+  emoji: "🇫🇴"
+  names:
+    es: "Islas Feroe"
+    en: "Faroe Islands"
+  phone_code: "298"
+  phone_min_length: 6
+  phone_max_length: 6
+- id: "FR"
+  emoji: "🇫🇷"
+  names:
+    es: "Francia"
+    en: "France"
+  phone_code: "33"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "GA"
+  emoji: "🇬🇦"
+  names:
+    es: "Gabón"
+    en: "Gabon"
+  phone_code: "241"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "GB"
+  emoji: "🇬🇧"
+  names:
+    es: "Reino Unido"
+    en: "United Kingdom"
+  phone_code: "44"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "GD"
+  emoji: "🇬🇩"
+  names:
+    es: "Granada"
+    en: "Grenada"
+  phone_code: "1473"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "GE"
+  emoji: "🇬🇪"
+  names:
+    es: "Georgia"
+    en: "Georgia"
+  phone_code: "995"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "GF"
+  emoji: "🇬🇫"
+  names:
+    es: "Guayana Francesa"
+    en: "French Guiana"
+  phone_code: "594"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "GG"
+  emoji: "🇬🇬"
+  names:
+    es: "Guernsey"
+    en: "Guernsey"
+  phone_code: "441481"
+  phone_min_length: 
+  phone_max_length: 
+- id: "GH"
+  emoji: "🇬🇭"
+  names:
+    es: "Ghana"
+    en: "Ghana"
+  phone_code: "233"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "GI"
+  emoji: "🇬🇮"
+  names:
+    es: "Gibraltar"
+    en: "Gibraltar"
+  phone_code: "350"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "GL"
+  emoji: "🇬🇱"
+  names:
+    es: "Groenlandia"
+    en: "Greenland"
+  phone_code: "299"
+  phone_min_length: 6
+  phone_max_length: 6
+- id: "GM"
+  emoji: "🇬🇲"
+  names:
+    es: "Gambia"
+    en: "Gambia"
+  phone_code: "220"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "GN"
+  emoji: "🇬🇳"
+  names:
+    es: "Guinea"
+    en: "Guinea"
+  phone_code: "224"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "GP"
+  emoji: "🇬🇵"
+  names:
+    es: "Guadalupe"
+    en: "Guadeloupe"
+  phone_code: "590"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "GQ"
+  emoji: "🇬🇶"
+  names:
+    es: "Guinea Ecuatorial"
+    en: "Equatorial Guinea"
+  phone_code: "240"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "GR"
+  emoji: "🇬🇷"
+  names:
+    es: "Grecia"
+    en: "Greece"
+  phone_code: "30"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "GS"
+  emoji: "🇬🇸"
+  names:
+    es: "Islas Georgias del Sur y Sandwich del Sur"
+    en: "South Georgia and the South Sandwich Islands"
+  phone_code: 
+  phone_min_length: 
+  phone_max_length: 
+- id: "GT"
+  emoji: "🇬🇹"
+  names:
+    es: "Guatemala"
+    en: "Guatemala"
+  phone_code: "502"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "GU"
+  emoji: "🇬🇺"
+  names:
+    es: "Guam"
+    en: "Guam"
+  phone_code: "1671"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "GW"
+  emoji: "🇬🇼"
+  names:
+    es: "Guinea-Bissau"
+    en: "Guinea-Bissau"
+  phone_code: "245"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "GY"
+  emoji: "🇬🇾"
+  names:
+    es: "Guyana"
+    en: "Guyana"
+  phone_code: "592"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "HK"
+  emoji: "🇭🇰"
+  names:
+    es: "Hong kong"
+    en: "Hong Kong"
+  phone_code: "852"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "HM"
+  emoji: "🇭🇲"
+  names:
+    es: "Islas Heard y McDonald"
+    en: "Heard Island and McDonald Islands"
+  phone_code: ""
+  phone_min_length: 
+  phone_max_length: 
+- id: "HN"
+  emoji: "🇭🇳"
+  names:
+    es: "Honduras"
+    en: "Honduras"
+  phone_code: "504"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "HR"
+  emoji: "🇭🇷"
+  names:
+    es: "Croacia"
+    en: "Croatia"
+  phone_code: "385"
+  phone_min_length: 8
+  phone_max_length: 9
+- id: "HT"
+  emoji: "🇭🇹"
+  names:
+    es: "Haití"
+    en: "Haiti"
+  phone_code: "509"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "HU"
+  emoji: "🇭🇺"
+  names:
+    es: "Hungría"
+    en: "Hungary"
+  phone_code: "36"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "ID"
+  emoji: "🇮🇩"
+  names:
+    es: "Indonesia"
+    en: "Indonesia"
+  phone_code: "62"
+  phone_min_length: 9
+  phone_max_length: 12
+- id: "IE"
+  emoji: "🇮🇪"
+  names:
+    es: "Irlanda"
+    en: "Ireland"
+  phone_code: "353"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "IL"
+  emoji: "🇮🇱"
+  names:
+    es: "Israel"
+    en: "Israel"
+  phone_code: "972"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "IM"
+  emoji: "🇮🇲"
+  names:
+    es: "Isla de Man"
+    en: "Isle of Man"
+  phone_code: "441624"
+  phone_min_length: 
+  phone_max_length: 
+- id: "IN"
+  emoji: "🇮🇳"
+  names:
+    es: "India"
+    en: "India"
+  phone_code: "91"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "IO"
+  emoji: "🇮🇴"
+  names:
+    es: "Territorio Británico del Océano Índico"
+    en: "British Indian Ocean Territory"
+  phone_code: "246"
+  phone_min_length: 
+  phone_max_length: 
+- id: "IQ"
+  emoji: "🇮🇶"
+  names:
+    es: "Irak"
+    en: "Iraq"
+  phone_code: "964"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "IR"
+  emoji: "🇮🇷"
+  names:
+    es: "Irán"
+    en: "Iran"
+  phone_code: "98"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "IS"
+  emoji: "🇮🇸"
+  names:
+    es: "Islandia"
+    en: "Iceland"
+  phone_code: "354"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "IT"
+  emoji: "🇮🇹"
+  names:
+    es: "Italia"
+    en: "Italy"
+  phone_code: "39"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "JE"
+  emoji: "🇯🇪"
+  names:
+    es: "Jersey"
+    en: "Jersey"
+  phone_code: "441534"
+  phone_min_length: 
+  phone_max_length: 
+- id: "JM"
+  emoji: "🇯🇲"
+  names:
+    es: "Jamaica"
+    en: "Jamaica"
+  phone_code: "1876"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "JO"
+  emoji: "🇯🇴"
+  names:
+    es: "Jordania"
+    en: "Jordan"
+  phone_code: "962"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "JP"
+  emoji: "🇯🇵"
+  names:
+    es: "Japón"
+    en: "Japan"
+  phone_code: "81"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "KE"
+  emoji: "🇰🇪"
+  names:
+    es: "Kenia"
+    en: "Kenya"
+  phone_code: "254"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "KG"
+  emoji: "🇰🇬"
+  names:
+    es: "Kirguistán"
+    en: "Kyrgyzstan"
+  phone_code: "996"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "KH"
+  emoji: "🇰🇭"
+  names:
+    es: "Camboya"
+    en: "Cambodia"
+  phone_code: "855"
+  phone_min_length: 8
+  phone_max_length: 9
+- id: "KI"
+  emoji: "🇰🇮"
+  names:
+    es: "Kiribati"
+    en: "Kiribati"
+  phone_code: "686"
+  phone_min_length: 5
+  phone_max_length: 5
+- id: "KM"
+  emoji: "🇰🇲"
+  names:
+    es: "Comoras"
+    en: "Comoros"
+  phone_code: "269"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "KN"
+  emoji: "🇰🇳"
+  names:
+    es: "San Cristóbal y Nieves"
+    en: "Saint Kitts and Nevis"
+  phone_code: "1869"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "KP"
+  emoji: "🇰🇵"
+  names:
+    es: "Corea del Norte"
+    en: "North Korea"
+  phone_code: "850"
+  phone_min_length: 
+  phone_max_length: 
+- id: "KR"
+  emoji: "🇰🇷"
+  names:
+    es: "Corea del Sur"
+    en: "South Korea"
+  phone_code: "82"
+  phone_min_length: 9
+  phone_max_length: 10
+- id: "KW"
+  emoji: "🇰🇼"
+  names:
+    es: "Kuwait"
+    en: "Kuwait"
+  phone_code: "965"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "KY"
+  emoji: "🇰🇾"
+  names:
+    es: "Islas Caimán"
+    en: "Cayman Islands"
+  phone_code: "1345"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "KZ"
+  emoji: "🇰🇿"
+  names:
+    es: "Kazajistán"
+    en: "Kazakhstan"
+  phone_code: "7"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "LA"
+  emoji: "🇱🇦"
+  names:
+    es: "Laos"
+    en: "Laos"
+  phone_code: "856"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "LB"
+  emoji: "🇱🇧"
+  names:
+    es: "Líbano"
+    en: "Lebanon"
+  phone_code: "961"
+  phone_min_length: 7
+  phone_max_length: 8
+- id: "LC"
+  emoji: "🇱🇨"
+  names:
+    es: "Santa Lucía"
+    en: "Saint Lucia"
+  phone_code: "1758"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "LI"
+  emoji: "🇱🇮"
+  names:
+    es: "Liechtenstein"
+    en: "Liechtenstein"
+  phone_code: "423"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "LK"
+  emoji: "🇱🇰"
+  names:
+    es: "Sri lanka"
+    en: "Sri Lanka"
+  phone_code: "94"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "LR"
+  emoji: "🇱🇷"
+  names:
+    es: "Liberia"
+    en: "Liberia"
+  phone_code: "231"
+  phone_min_length: 7
+  phone_max_length: 8
+- id: "LS"
+  emoji: "🇱🇸"
+  names:
+    es: "Lesoto"
+    en: "Lesotho"
+  phone_code: "266"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "LT"
+  emoji: "🇱🇹"
+  names:
+    es: "Lituania"
+    en: "Lithuania"
+  phone_code: "370"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "LU"
+  emoji: "🇱🇺"
+  names:
+    es: "Luxemburgo"
+    en: "Luxembourg"
+  phone_code: "352"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "LV"
+  emoji: "🇱🇻"
+  names:
+    es: "Letonia"
+    en: "Latvia"
+  phone_code: "371"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "LY"
+  emoji: "🇱🇾"
+  names:
+    es: "Libia"
+    en: "Libya"
+  phone_code: "218"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "MA"
+  emoji: "🇲🇦"
+  names:
+    es: "Marruecos"
+    en: "Morocco"
+  phone_code: "212"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "MC"
+  emoji: "🇲🇨"
+  names:
+    es: "Mónaco"
+    en: "Monaco"
+  phone_code: "377"
+  phone_min_length: 8
+  phone_max_length: 9
+- id: "MD"
+  emoji: "🇲🇩"
+  names:
+    es: "Moldavia"
+    en: "Moldova"
+  phone_code: "373"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "ME"
+  emoji: "🇲🇪"
+  names:
+    es: "Montenegro"
+    en: "Montenegro"
+  phone_code: "382"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "MF"
+  emoji: "🇲🇫"
+  names:
+    es: "San Martín"
+    en: "Saint Martin"
+  phone_code: "590"
+  phone_min_length: 
+  phone_max_length: 
+- id: "MG"
+  emoji: "🇲🇬"
+  names:
+    es: "Madagascar"
+    en: "Madagascar"
+  phone_code: "261"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "MH"
+  emoji: "🇲🇭"
+  names:
+    es: "Islas Marshall"
+    en: "Marshall Islands"
+  phone_code: "692"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "MK"
+  emoji: "🇲🇰"
+  names:
+    es: "Macedônia"
+    en: "North Macedonia"
+  phone_code: "389"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "ML"
+  emoji: "🇲🇱"
+  names:
+    es: "Mali"
+    en: "Mali"
+  phone_code: "223"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "MM"
+  emoji: "🇲🇲"
+  names:
+    es: "Birmania"
+    en: "Myanmar"
+  phone_code: "95"
+  phone_min_length: 8
+  phone_max_length: 10
+- id: "MN"
+  emoji: "🇲🇳"
+  names:
+    es: "Mongolia"
+    en: "Mongolia"
+  phone_code: "976"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "MO"
+  emoji: "🇲🇴"
+  names:
+    es: "Macao"
+    en: "Macao"
+  phone_code: "853"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "MP"
+  emoji: "🇲🇵"
+  names:
+    es: "Islas Marianas del Norte"
+    en: "Northern Mariana Islands"
+  phone_code: "1670"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "MQ"
+  emoji: "🇲🇶"
+  names:
+    es: "Martinica"
+    en: "Martinique"
+  phone_code: "596"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "MR"
+  emoji: "🇲🇷"
+  names:
+    es: "Mauritania"
+    en: "Mauritania"
+  phone_code: "222"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "MS"
+  emoji: "🇲🇸"
+  names:
+    es: "Montserrat"
+    en: "Montserrat"
+  phone_code: "1664"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "MT"
+  emoji: "🇲🇹"
+  names:
+    es: "Malta"
+    en: "Malta"
+  phone_code: "356"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "MU"
+  emoji: "🇲🇺"
+  names:
+    es: "Mauricio"
+    en: "Mauritius"
+  phone_code: "230"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "MV"
+  emoji: "🇲🇻"
+  names:
+    es: "Islas Maldivas"
+    en: "Maldives"
+  phone_code: "960"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "MW"
+  emoji: "🇲🇼"
+  names:
+    es: "Malawi"
+    en: "Malawi"
+  phone_code: "265"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "MX"
+  emoji: "🇲🇽"
+  names:
+    es: "México"
+    en: "Mexico"
+  phone_code: "52"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "MY"
+  emoji: "🇲🇾"
+  names:
+    es: "Malasia"
+    en: "Malaysia"
+  phone_code: "60"
+  phone_min_length: 9
+  phone_max_length: 10
+- id: "MZ"
+  emoji: "🇲🇿"
+  names:
+    es: "Mozambique"
+    en: "Mozambique"
+  phone_code: "258"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "NA"
+  emoji: "🇳🇦"
+  names:
+    es: "Namibia"
+    en: "Namibia"
+  phone_code: "264"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "NC"
+  emoji: "🇳🇨"
+  names:
+    es: "Nueva Caledonia"
+    en: "New Caledonia"
+  phone_code: "687"
+  phone_min_length: 6
+  phone_max_length: 6
+- id: "NE"
+  emoji: "🇳🇪"
+  names:
+    es: "Niger"
+    en: "Niger"
+  phone_code: "227"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "NF"
+  emoji: "🇳🇫"
+  names:
+    es: "Isla Norfolk"
+    en: "Norfolk Island"
+  phone_code: "672"
+  phone_min_length: 5
+  phone_max_length: 5
+- id: "NG"
+  emoji: "🇳🇬"
+  names:
+    es: "Nigeria"
+    en: "Nigeria"
+  phone_code: "234"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "NI"
+  emoji: "🇳🇮"
+  names:
+    es: "Nicaragua"
+    en: "Nicaragua"
+  phone_code: "505"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "NL"
+  emoji: "🇳🇱"
+  names:
+    es: "Países Bajos"
+    en: "Netherlands"
+  phone_code: "31"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "NO"
+  emoji: "🇳🇴"
+  names:
+    es: "Noruega"
+    en: "Norway"
+  phone_code: "47"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "NP"
+  emoji: "🇳🇵"
+  names:
+    es: "Nepal"
+    en: "Nepal"
+  phone_code: "977"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "NR"
+  emoji: "🇳🇷"
+  names:
+    es: "Nauru"
+    en: "Nauru"
+  phone_code: "674"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "NU"
+  emoji: "🇳🇺"
+  names:
+    es: "Niue"
+    en: "Niue"
+  phone_code: "683"
+  phone_min_length: 4
+  phone_max_length: 4
+- id: "NZ"
+  emoji: "🇳🇿"
+  names:
+    es: "Nueva Zelanda"
+    en: "New Zealand"
+  phone_code: "64"
+  phone_min_length: 8
+  phone_max_length: 10
+- id: "OM"
+  emoji: "🇴🇲"
+  names:
+    es: "Omán"
+    en: "Oman"
+  phone_code: "968"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "PA"
+  emoji: "🇵🇦"
+  names:
+    es: "Panamá"
+    en: "Panama"
+  phone_code: "507"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "PE"
+  emoji: "🇵🇪"
+  names:
+    es: "Perú"
+    en: "Peru"
+  phone_code: "51"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "PF"
+  emoji: "🇵🇫"
+  names:
+    es: "Polinesia Francesa"
+    en: "French Polynesia"
+  phone_code: "689"
+  phone_min_length: 6
+  phone_max_length: 6
+- id: "PG"
+  emoji: "🇵🇬"
+  names:
+    es: "Papúa Nueva Guinea"
+    en: "Papua New Guinea"
+  phone_code: "675"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "PH"
+  emoji: "🇵🇭"
+  names:
+    es: "Filipinas"
+    en: "Philippines"
+  phone_code: "63"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "PK"
+  emoji: "🇵🇰"
+  names:
+    es: "Pakistán"
+    en: "Pakistan"
+  phone_code: "92"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "PL"
+  emoji: "🇵🇱"
+  names:
+    es: "Polonia"
+    en: "Poland"
+  phone_code: "48"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "PM"
+  emoji: "🇵🇲"
+  names:
+    es: "San Pedro y Miquelón"
+    en: "Saint Pierre and Miquelon"
+  phone_code: "508"
+  phone_min_length: 6
+  phone_max_length: 6
+- id: "PN"
+  emoji: "🇵🇳"
+  names:
+    es: "Islas Pitcairn"
+    en: "Pitcairn"
+  phone_code: "870"
+  phone_min_length: 
+  phone_max_length: 
+- id: "PR"
+  emoji: "🇵🇷"
+  names:
+    es: "Puerto Rico"
+    en: "Puerto Rico"
+  phone_code: "1"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "PS"
+  emoji: "🇵🇸"
+  names:
+    es: "Palestina"
+    en: "Palestine"
+  phone_code: "970"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "PT"
+  emoji: "🇵🇹"
+  names:
+    es: "Portugal"
+    en: "Portugal"
+  phone_code: "351"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "PW"
+  emoji: "🇵🇼"
+  names:
+    es: "Palau"
+    en: "Palau"
+  phone_code: "680"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "PY"
+  emoji: "🇵🇾"
+  names:
+    es: "Paraguay"
+    en: "Paraguay"
+  phone_code: "595"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "QA"
+  emoji: "🇶🇦"
+  names:
+    es: "Qatar"
+    en: "Qatar"
+  phone_code: "974"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "RE"
+  emoji: "🇷🇪"
+  names:
+    es: "Reunión"
+    en: "Réunion"
+  phone_code: "262"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "RO"
+  emoji: "🇷🇴"
+  names:
+    es: "Rumanía"
+    en: "Romania"
+  phone_code: "40"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "RS"
+  emoji: "🇷🇸"
+  names:
+    es: "Serbia"
+    en: "Serbia"
+  phone_code: "381"
+  phone_min_length: 8
+  phone_max_length: 9
+- id: "RU"
+  emoji: "🇷🇺"
+  names:
+    es: "Rusia"
+    en: "Russia"
+  phone_code: "7"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "RW"
+  emoji: "🇷🇼"
+  names:
+    es: "Ruanda"
+    en: "Rwanda"
+  phone_code: "250"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "SA"
+  emoji: "🇸🇦"
+  names:
+    es: "Arabia Saudita"
+    en: "Saudi Arabia"
+  phone_code: "966"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "SB"
+  emoji: "🇸🇧"
+  names:
+    es: "Islas Salomón"
+    en: "Solomon Islands"
+  phone_code: "677"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "SC"
+  emoji: "🇸🇨"
+  names:
+    es: "Seychelles"
+    en: "Seychelles"
+  phone_code: "248"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "SD"
+  emoji: "🇸🇩"
+  names:
+    es: "Sudán"
+    en: "Sudan"
+  phone_code: "249"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "SE"
+  emoji: "🇸🇪"
+  names:
+    es: "Suecia"
+    en: "Sweden"
+  phone_code: "46"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "SG"
+  emoji: "🇸🇬"
+  names:
+    es: "Singapur"
+    en: "Singapore"
+  phone_code: "65"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "SH"
+  emoji: "🇸🇭"
+  names:
+    es: "Santa Elena"
+    en: "Saint Helena, Ascension and Tristan da Cunha"
+  phone_code: "290"
+  phone_min_length: 4
+  phone_max_length: 4
+- id: "SI"
+  emoji: "🇸🇮"
+  names:
+    es: "Eslovenia"
+    en: "Slovenia"
+  phone_code: "386"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "SJ"
+  emoji: "🇸🇯"
+  names:
+    es: "Svalbard y Jan Mayen"
+    en: "Svalbard and Jan Mayen"
+  phone_code: "47"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "SK"
+  emoji: "🇸🇰"
+  names:
+    es: "Eslovaquia"
+    en: "Slovakia"
+  phone_code: "421"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "SL"
+  emoji: "🇸🇱"
+  names:
+    es: "Sierra Leona"
+    en: "Sierra Leone"
+  phone_code: "232"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "SM"
+  emoji: "🇸🇲"
+  names:
+    es: "San Marino"
+    en: "San Marino"
+  phone_code: "378"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "SN"
+  emoji: "🇸🇳"
+  names:
+    es: "Senegal"
+    en: "Senegal"
+  phone_code: "221"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "SO"
+  emoji: "🇸🇴"
+  names:
+    es: "Somalia"
+    en: "Somalia"
+  phone_code: "252"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "SR"
+  emoji: "🇸🇷"
+  names:
+    es: "Surinám"
+    en: "Suriname"
+  phone_code: "597"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "SS"
+  emoji: "🇸🇸"
+  names:
+    es: "República de Sudán del Sur"
+    en: "South Sudan"
+  phone_code: "211"
+  phone_min_length: 
+  phone_max_length: 
+- id: "ST"
+  emoji: "🇸🇹"
+  names:
+    es: "Santo Tomé y Príncipe"
+    en: "Sao Tome and Principe"
+  phone_code: "239"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "SV"
+  emoji: "🇸🇻"
+  names:
+    es: "El Salvador"
+    en: "El Salvador"
+  phone_code: "503"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "SX"
+  emoji: "🇸🇽"
+  names:
+    es: "Sint Maarten"
+    en: "Sint Maarten"
+  phone_code: "599"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "SY"
+  emoji: "🇸🇾"
+  names:
+    es: "Siria"
+    en: "Syria"
+  phone_code: "963"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "SZ"
+  emoji: "🇸🇿"
+  names:
+    es: "Swazilandia"
+    en: "Eswatini"
+  phone_code: "268"
+  phone_min_length: 
+  phone_max_length: 
+- id: "TC"
+  emoji: "🇹🇨"
+  names:
+    es: "Islas Turcas y Caicos"
+    en: "Turks and Caicos Islands"
+  phone_code: "1649"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "TD"
+  emoji: "🇹🇩"
+  names:
+    es: "Chad"
+    en: "Chad"
+  phone_code: "235"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "TF"
+  emoji: "🇹🇫"
+  names:
+    es: "Territorios Australes y Antárticas Franceses"
+    en: "French Southern Territories"
+  phone_code: 
+  phone_min_length: 
+  phone_max_length: 
+- id: "TG"
+  emoji: "🇹🇬"
+  names:
+    es: "Togo"
+    en: "Togo"
+  phone_code: "228"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "TH"
+  emoji: "🇹🇭"
+  names:
+    es: "Tailandia"
+    en: "Thailand"
+  phone_code: "66"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "TJ"
+  emoji: "🇹🇯"
+  names:
+    es: "Tayikistán"
+    en: "Tajikistan"
+  phone_code: "992"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "TK"
+  emoji: "🇹🇰"
+  names:
+    es: "Tokelau"
+    en: "Tokelau"
+  phone_code: "690"
+  phone_min_length: 4
+  phone_max_length: 4
+- id: "TL"
+  emoji: "🇹🇱"
+  names:
+    es: "Timor Oriental"
+    en: "Timor-Leste"
+  phone_code: "670"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "TM"
+  emoji: "🇹🇲"
+  names:
+    es: "Turkmenistán"
+    en: "Turkmenistan"
+  phone_code: "993"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "TN"
+  emoji: "🇹🇳"
+  names:
+    es: "Tunez"
+    en: "Tunisia"
+  phone_code: "216"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "TO"
+  emoji: "🇹🇴"
+  names:
+    es: "Tonga"
+    en: "Tonga"
+  phone_code: "676"
+  phone_min_length: 5
+  phone_max_length: 5
+- id: "TR"
+  emoji: "🇹🇷"
+  names:
+    es: "Turquía"
+    en: "Turkey"
+  phone_code: "90"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "TT"
+  emoji: "🇹🇹"
+  names:
+    es: "Trinidad y Tobago"
+    en: "Trinidad and Tobago"
+  phone_code: "1868"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "TV"
+  emoji: "🇹🇻"
+  names:
+    es: "Tuvalu"
+    en: "Tuvalu"
+  phone_code: "688"
+  phone_min_length: 5
+  phone_max_length: 5
+- id: "TW"
+  emoji: "🇹🇼"
+  names:
+    es: "Taiwán"
+    en: "Taiwan"
+  phone_code: "886"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "TZ"
+  emoji: "🇹🇿"
+  names:
+    es: "Tanzania"
+    en: "Tanzania"
+  phone_code: "255"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "UA"
+  emoji: "🇺🇦"
+  names:
+    es: "Ucrania"
+    en: "Ukraine"
+  phone_code: "380"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "UG"
+  emoji: "🇺🇬"
+  names:
+    es: "Uganda"
+    en: "Uganda"
+  phone_code: "256"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "UM"
+  emoji: "🇺🇲"
+  names:
+    es: "Islas Ultramarinas Menores de Estados Unidos"
+    en: "United States Minor Outlying Islands"
+  phone_code: "1"
+  phone_min_length: 
+  phone_max_length: 
+- id: "US"
+  emoji: "🇺🇸"
+  names:
+    es: "Estados Unidos"
+    en: "United States of America"
+  phone_code: "1"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "UY"
+  emoji: "🇺🇾"
+  names:
+    es: "Uruguay"
+    en: "Uruguay"
+  phone_code: "598"
+  phone_min_length: 8
+  phone_max_length: 8
+- id: "UZ"
+  emoji: "🇺🇿"
+  names:
+    es: "Uzbekistán"
+    en: "Uzbekistan"
+  phone_code: "998"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "VA"
+  emoji: "🇻🇦"
+  names:
+    es: "Ciudad del Vaticano"
+    en: "Holy See"
+  phone_code: "379"
+  phone_min_length: 
+  phone_max_length: 
+- id: "VC"
+  emoji: "🇻🇨"
+  names:
+    es: "San Vicente y las Granadinas"
+    en: "Saint Vincent and the Grenadines"
+  phone_code: "1784"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "VE"
+  emoji: "🇻🇪"
+  names:
+    es: "Venezuela"
+    en: "Venezuela"
+  phone_code: "58"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "VG"
+  emoji: "🇻🇬"
+  names:
+    es: "Islas Vírgenes Británicas"
+    en: "Virgin Islands (UK)"
+  phone_code: "1284"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "VI"
+  emoji: "🇻🇮"
+  names:
+    es: "Islas Vírgenes de los Estados Unidos"
+    en: "Virgin Islands (US)"
+  phone_code: "1340"
+  phone_min_length: 10
+  phone_max_length: 10
+- id: "VN"
+  emoji: "🇻🇳"
+  names:
+    es: "Vietnam"
+    en: "Vietnam"
+  phone_code: "84"
+  phone_min_length: 9
+  phone_max_length: 10
+- id: "VU"
+  emoji: "🇻🇺"
+  names:
+    es: "Vanuatu"
+    en: "Vanuatu"
+  phone_code: "678"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "WF"
+  emoji: "🇼🇫"
+  names:
+    es: "Wallis y Futuna"
+    en: "Wallis and Futuna"
+  phone_code: "681"
+  phone_min_length: 6
+  phone_max_length: 6
+- id: "WS"
+  emoji: "🇼🇸"
+  names:
+    es: "Samoa"
+    en: "Samoa"
+  phone_code: "685"
+  phone_min_length: 7
+  phone_max_length: 7
+- id: "YE"
+  emoji: "🇾🇪"
+  names:
+    es: "Yemen"
+    en: "Yemen"
+  phone_code: "967"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "YT"
+  emoji: "🇾🇹"
+  names:
+    es: "Mayotte"
+    en: "Mayotte"
+  phone_code: "262"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "ZA"
+  emoji: "🇿🇦"
+  names:
+    es: "Sudáfrica"
+    en: "South Africa"
+  phone_code: "27"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "ZM"
+  emoji: "🇿🇲"
+  names:
+    es: "Zambia"
+    en: "Zambia"
+  phone_code: "260"
+  phone_min_length: 9
+  phone_max_length: 9
+- id: "ZW"
+  emoji: "🇿🇼"
+  names:
+    es: "Zimbabue"
+    en: "Zimbabwe"
+  phone_code: "263"
+  phone_min_length: 9
+  phone_max_length: 9
