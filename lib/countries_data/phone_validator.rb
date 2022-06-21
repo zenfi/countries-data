@@ -10,7 +10,7 @@ module CountriesData
       @number = number
     end
 
-    PHONE_REGEXP = Regexp.new("^\\d+$")
+    PHONE_REGEXP = Regexp.new('^\\d+$')
 
     def valid?
       valid_format? && valid_code? && valid_length?
@@ -26,20 +26,21 @@ module CountriesData
 
     def valid_length?
       return false unless number&.length
+
       length = number.length
       length >= min_length && length <= max_length
     end
 
     def min_length
       countries
-        .map { |country| country.phone_min_length }
+        .map(&:phone_min_length)
         .compact
         .min || 0
     end
 
     def max_length
       countries
-        .map { |country| country.phone_max_length }
+        .map(&:phone_max_length)
         .compact
         .max || Float::INFINITY
     end

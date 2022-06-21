@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require_relative 'lib/countries_data/version'
 
 Gem::Specification.new do |spec|
@@ -15,9 +13,9 @@ Gem::Specification.new do |spec|
   # to allow pushing to a single host or delete this section to allow pushing to any host.
   spec.metadata = {
     'rubygems_mfa_required' => 'true',
-    'homepage_uri'          => spec.homepage,
-    'source_code_uri'       => 'https://github.com/zenfi/countries-data',
-    'changelog_uri'         => 'https://github.com/zenfi/countries-data/CHANGELOG.md'
+    'homepage_uri' => spec.homepage,
+    'source_code_uri' => 'https://github.com/zenfi/countries-data',
+    'changelog_uri' => 'https://github.com/zenfi/countries-data/CHANGELOG.md'
   }
 
   spec.files = Dir['lib/**/*']

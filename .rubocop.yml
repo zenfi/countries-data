@@ -18,3 +18,16 @@ Metrics/MethodLength:
 # The guiding principle of classes is SRP, SRP can't be accurately measured by LoC
 Metrics/ClassLength:
   Max: 1500
+
+Style/FrozenStringLiteralComment:
+  EnforcedStyle: never
+
+Style/Documentation:
+  Enabled: false 
+
+Style/AccessorGrouping:
+  EnforcedStyle: separated
+
+Metrics/BlockLength:
+  Exclude:
+    - 'spec/**/*.rb'

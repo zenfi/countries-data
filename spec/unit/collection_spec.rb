@@ -46,7 +46,7 @@ RSpec.describe CountriesData::Collection, type: :module do
         next if country.phone_code.nil?
 
         results = described_class.find_by_phone_code(country.phone_code)
-        ids = results.map { |element| element.id }
+        ids = results.map(&:id)
         expect(ids).to include(country.id)
       end
     end
